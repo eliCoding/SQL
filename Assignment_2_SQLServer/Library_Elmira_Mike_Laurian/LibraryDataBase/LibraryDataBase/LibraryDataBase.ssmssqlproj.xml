@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LibraryDataBase">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="213-19:213-19\ipd">
+          <Created>2017-02-17T13:59:22.8834119-05:00</Created>
+          <Type>SQL</Type>
+          <Server>213-19</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Northwind2014</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1- Create Libarary_DB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:213-19:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>213-19</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1- Create Libarary_DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2- Create library_Schema.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:213-19:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>213-19</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2- Create library_Schema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3-Create library_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:213-19:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>213-19</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3-Create library_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6 - insert data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:213-19:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>213-19</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6 - insert data.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

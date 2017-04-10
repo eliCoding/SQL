@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "LibraryDataBase", "LibraryDataBase\LibraryDataBase.ssmssqlproj", "{8C1BC18E-8202-4C54-B391-3A1A8636753C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DVDRental_Elmira", "..\..\..\Elmira_DataBase\DVDRental_Elmira\DVDRental_Elmira\DVDRental_Elmira.ssmssqlproj", "{296C9878-7354-447D-B98E-ED9FC9299E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1BC18E-8202-4C54-B391-3A1A8636753C}.Default|Default.ActiveCfg = Default
+		{1B417815-CFA2-415C-B827-4B8693BC007F}.Default|Default.ActiveCfg = Default
+		{296C9878-7354-447D-B98E-ED9FC9299E1B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
